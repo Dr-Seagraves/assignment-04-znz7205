@@ -18,7 +18,7 @@ import requests
 
 # FRED API key (free at https://fred.stlouisfed.org/docs/api/api_key.html)
 # Option 1: Put your key here (works for you; don't commit if sharing code)
-FRED_API_KEY = ""
+FRED_API_KEY = "673ae4f1821466fd69190f4724867af4"
 
 # Option 2: If FRED_API_KEY above is empty, the script will use the FRED_API_KEY
 #            environment variable (set in terminal or .env file).
